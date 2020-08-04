@@ -3,6 +3,7 @@ red
 green
 blue
 orange
+indigo
 purple
 yellow
 indigo
