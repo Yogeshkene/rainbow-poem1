@@ -1,4 +1,4 @@
-the Rainbow and the unicorn
+the Rainbow and the unicorn and ponies
 red
 green
 blue
@@ -7,3 +7,4 @@ purple
 yellow
 indigo
 this are rainbow colour with unicorn
+ponies
