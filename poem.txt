@@ -4,3 +4,5 @@ green
 blue
 orange
 purple
+yellow
+this are rainbow colour
