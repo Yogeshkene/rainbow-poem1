@@ -5,4 +5,5 @@ blue
 orange
 purple
 yellow
+indigo
 this are rainbow colour with unicorn
